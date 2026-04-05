@@ -1,2 +1,5 @@
-# html-apk-1775380366663
-HTML WebView APK - AniStreamax
+# AniStreamax
+
+WebView Android wrapper.
+
+Le build démarre automatiquement via GitHub Actions.
